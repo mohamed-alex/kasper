@@ -1,2 +1,4 @@
 content 
-this changes have been written on git hub
+this changes have been written on git hub(comment)
+
+this chamge on  my PC
