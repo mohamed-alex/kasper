@@ -1,10 +1,6 @@
 content 
-<<<<<<< HEAD
+
 this changes have been written on git hub(comment)
 
-this chamge on  my PC
-=======
-this changes have been written on git hub
-
 other modificathion on git site
->>>>>>> 29d9330f493a03a7655121004160db34934a1263
+
